@@ -13,14 +13,18 @@ This also means, that you can just copy the file and take it anywhere - it works
 - Everthing in a single HTML file you can take with you
 - Multi-Currency: Bitcoin, Dash, Dogecoin, Litecoin, Peercoin
 - After each claim it automatically finds the next faucet with the highest average payout
+- Filter list and rotator by currency
 - Ban dry or broken faucets for 24 hours
 
 ## Coming features (todo)
+- Filter by captcha type
 - Optional Popup blocker
+- Check for update
 - Increase timer for each ban if faucet is still dry after last one
 - Check payment providers to find the **real** average payout
 
 ## Wild ideas, that may or may not happen
+- Stats for the currencies
 - Support for trading currencies on several markets
 
 ## What the hell is all this?
