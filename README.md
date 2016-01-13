@@ -2,7 +2,7 @@
 The last cryptorotator you'll ever need.
 
 If you don't know what a cryptorotator is, you propaly won't need it.
-But if you feel like it, check the description at the end of the readme.
+If you want to find out, check the description at the end of the readme.
 
 ## Usage
 Just open the file rotator4crypto.html in a browser.
