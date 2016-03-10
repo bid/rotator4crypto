@@ -7,7 +7,7 @@ If you want to find out, check the description at the end of the readme.
 ## Usage
 Just open the file rotator4crypto.html in a browser.
 The whole system and the database are inside that file.
-This also means, that you can just copy the file and take it anywhere - it works on tablets and smartphones too!
+It also means, that you can just copy the file and take it anywhere - it works on tablets and smartphones too!
 
 ## Features
 - Everthing in a single HTML file you can take with you
@@ -17,10 +17,12 @@ This also means, that you can just copy the file and take it anywhere - it works
 - Ban dry or broken faucets for 24 hours
 
 ## Coming features (todo)
+- Rate (thumb-down/thumb-up) faucets for higher priority in the rotator
+- Reflink for rotator4crypto, that puts your address in random 50% of the links
 - Filter by captcha type
 - Optional Popup blocker
 - Check for update
-- Increase timer for each ban if faucet is still dry after last one
+- Increase timer for each ban if faucet is still dry after last ban
 - Check payment providers to find the **real** average payout
 
 ## Wild ideas, that may or may not happen
@@ -31,8 +33,8 @@ This also means, that you can just copy the file and take it anywhere - it works
 These are the things you have to know:
 
 A "Faucet" is a website that gives you small amounts of cryptocurrencies (like Bitcoin) just for visiting the site and entering a captcha.
-This works because the sites are usually filled with more ads than you can count.
-The amounts you claim per Faucet are very small, but what do you expect for 10 seconds of work?
+This works because the sites are usually filled with more advertisements than you can count.
+The amounts you claim per Faucet are usually quite small, but what do you expect for about 10 seconds of work?
 
 A "Cryptorotator" is a software or website, that lists many of these Faucets and gives you an option to easily switch from one to the next.
 
