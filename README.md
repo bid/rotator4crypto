@@ -1,7 +1,7 @@
 # rotator4crypto
 The last cryptorotator you'll ever need.
 
-If you don't know what a cryptorotator is, you propaly won't need it.
+If you don't know what a cryptorotator is, you propably won't need it.
 If you want to find out, check the description at the end of the readme.
 
 ## Usage
@@ -11,19 +11,21 @@ It also means, that you can just copy the file and take it anywhere - it works o
 
 ## Features
 - Everthing in a single HTML file you can take with you
+- Works on computers, tablets and smartphones
 - Multi-Currency: Bitcoin, Dash, Dogecoin, Litecoin, Peercoin
-- After each claim it automatically finds the next faucet with the highest average payout
-- Filter list and rotator by currency
+- Takes care of showing only the faucets without running timers
+- After each claim it automatically finds the next faucet with the highest average payout (optional)
+- Filter list and rotator by currencies
 - Ban dry or broken faucets for 24 hours
 
 ## Coming features (todo)
-- Rate (thumb-down/thumb-up) faucets for higher priority in the rotator
 - Reflink for rotator4crypto, that puts your address in random 50% of the links
 - Filter by captcha type
 - Optional Popup blocker
-- Check for update
+- Check for updates of rotator4crypto
 - Increase timer for each ban if faucet is still dry after last ban
 - Check payment providers to find the **real** average payout
+- Rate (thumb-down/thumb-up) faucets for higher priority in the rotator
 
 ## Wild ideas, that may or may not happen
 - Stats for the currencies
