@@ -7,11 +7,11 @@ If you want to find out, check the description at the end of the readme.
 ## Usage
 Just open the file rotator4crypto.html in a browser.
 The whole system and the database are inside that file.
-It also means, that you can just copy the file and take it anywhere - it works on tablets and smartphones too!
+It also means, that you can just copy the file and take it anywhere - it works on tablets too!
 
 ## Features
 - Everthing in a single HTML file you can take with you
-- Works on computers, tablets and smartphones
+- Works on computers and tablets
 - Multi-Currency: Bitcoin, Dash, Dogecoin, Litecoin, Peercoin
 - Takes care of showing only the faucets without running timers
 - After each claim it automatically finds the next faucet with the highest average payout (optional)
