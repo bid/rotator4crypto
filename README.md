@@ -15,6 +15,7 @@ It also means, that you can just copy the file and take it anywhere - it works o
 - Multi-Currency: Bitcoin, Dash, Dogecoin, Litecoin, Peercoin
 - Takes care of showing only the faucets without running timers
 - After each claim it automatically finds the next faucet with the highest average payout (optional)
+- Inserts your adress (one less step of work for you), on fauets supporting that feature
 - Filter list and rotator by currencies
 - Ban dry or broken faucets for 24 hours
 
