@@ -12,7 +12,7 @@ It also means, that you can just copy the file and take it anywhere - it works o
 ## Features
 - Everthing in a single HTML file you can take with you
 - Works on computers and tablets
-- Multi-Currency: Bitcoin, Dash, Dogecoin, Litecoin, Peercoin
+- Multi-Currency: Bitcoin, Dash, Dogecoin, Ether, Litecoin, Peercoin
 - Takes care of showing only the faucets without running timers
 - After each claim it automatically finds the next faucet with the highest average payout (optional)
 - Inserts your adress (one less step of work for you), on fauets supporting that feature
