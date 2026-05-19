@@ -5,7 +5,8 @@ This software is extremely out of date and only still here for archival purposes
 You can use/test it freely, it won't break anything. But most likely, not a single one of the linked faucet sites still exist.
 But feel free to test it and reuse the code.
 
-Have fun. 
+Have fun.
+
 The author
 
 # -- ORIGINAL README: --
